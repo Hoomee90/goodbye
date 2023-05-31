@@ -10,7 +10,7 @@
 
 ## Description
 
-This web page contains several goddbyes in various languages
+This web page contains several goodbyes in various languages
 
 ## Setup/Installation Requirements
 
